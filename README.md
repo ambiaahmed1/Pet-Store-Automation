@@ -1,8 +1,7 @@
-# RestAssured-Java
-# Objective : 
+### Objective : 
 A framework designed to facilitate the development of automation test scripts for API services using Java.
 
-# Tools / libraries used :
+### Tools / libraries used :
 
 1. Java
 2. Rest Assured
